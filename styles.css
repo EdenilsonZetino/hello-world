@@ -3,3 +3,27 @@ body{
     background: pink;
     text-align: center;
 }
+
+h1{
+ 
+background-image: linear-gradient(
+    45deg,
+    hsl(269deg 100% 20%) 0%,
+    hsl(237deg 54% 36%) 11%,
+    hsl(216deg 79% 38%) 20%,
+    hsl(206deg 100% 40%) 28%,
+    hsl(201deg 100% 45%) 35%,
+    hsl(196deg 100% 50%) 41%,
+    hsl(215deg 100% 70%) 48%,
+    hsl(268deg 94% 75%) 55%,
+    hsl(318deg 93% 63%) 63%,
+    hsl(333deg 100% 50%) 73%,
+    hsl(0deg 100% 50%) 100%
+    );
+
+    background-clip: text;
+    -webkit-background-clip: text;
+
+    color: transparentgit;
+
+}
